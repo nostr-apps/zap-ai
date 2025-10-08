@@ -27,17 +27,6 @@ ZapAI is an AI-powered bot living on the Nostr protocol. It answers your questio
 - **DVM (Data Vending Machine)**: NIP-90 for AI services
 - **AI Models**: OpenAI GPT, Anthropic Claude, or self-hosted LLaMA
 
-## Investment Opportunity
-
-We're raising **$3,000 USD in Bitcoin** through [Angor](https://angor.io) to build ZapAI.
-
-**Stage 1 ($1,500)**: Infrastructure setup, Lightning integration, AI API, basic bot  
-**Stage 2 ($1,500)**: Advanced engine, payment processing, production deployment
-
-**50% Profit Sharing**: Investors receive 50% of all revenue, paid monthly in Bitcoin via Lightning.
-
-[→ View on Angor](https://angor.io) (launching Q4 2025)
-
 ## Quick Start
 
 ```bash
