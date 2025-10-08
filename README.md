@@ -27,34 +27,6 @@ ZapAI is an AI-powered bot living on the Nostr protocol. It answers your questio
 - **DVM (Data Vending Machine)**: NIP-90 for AI services
 - **AI Models**: OpenAI GPT, Anthropic Claude, or self-hosted LLaMA
 
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/nostr-apps/zap-ai.git
-cd zap-ai
-
-# Install dependencies
-npm install
-
-# Configure environment
-cp .env.example .env
-# Edit .env with your keys
-
-# Run the bot
-npm start
-```
-
-## Configuration
-
-Create a `.env` file:
-
-```env
-NOSTR_PRIVATE_KEY=your_nsec_here
-AI_API_KEY=your_openai_or_claude_key
-LIGHTNING_ADDRESS=your_lightning_address
-MIN_ZAP_AMOUNT=100
-```
 
 ## Roadmap
 
